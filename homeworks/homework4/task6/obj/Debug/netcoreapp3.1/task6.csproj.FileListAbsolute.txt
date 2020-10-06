@@ -1,0 +1,12 @@
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/bin/Debug/netcoreapp3.1/task6.deps.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/bin/Debug/netcoreapp3.1/task6.runtimeconfig.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/bin/Debug/netcoreapp3.1/task6.runtimeconfig.dev.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/bin/Debug/netcoreapp3.1/task6.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/bin/Debug/netcoreapp3.1/task6.pdb
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/obj/Debug/netcoreapp3.1/task6.csprojAssemblyReference.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/obj/Debug/netcoreapp3.1/task6.csproj.CoreCompileInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/obj/Debug/netcoreapp3.1/task6.AssemblyInfoInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/obj/Debug/netcoreapp3.1/task6.AssemblyInfo.cs
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/obj/Debug/netcoreapp3.1/task6.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/obj/Debug/netcoreapp3.1/task6.pdb
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C#/homeworks/homework4/task6/obj/Debug/netcoreapp3.1/task6.genruntimeconfig.cache

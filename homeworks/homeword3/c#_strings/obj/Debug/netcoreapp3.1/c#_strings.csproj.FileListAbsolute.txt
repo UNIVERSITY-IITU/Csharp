@@ -1,0 +1,12 @@
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/bin/Debug/netcoreapp3.1/c#_strings.deps.json
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/bin/Debug/netcoreapp3.1/c#_strings.runtimeconfig.json
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/bin/Debug/netcoreapp3.1/c#_strings.runtimeconfig.dev.json
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/bin/Debug/netcoreapp3.1/c#_strings.dll
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/bin/Debug/netcoreapp3.1/c#_strings.pdb
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/obj/Debug/netcoreapp3.1/c#_strings.csprojAssemblyReference.cache
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/obj/Debug/netcoreapp3.1/c#_strings.csproj.CoreCompileInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/obj/Debug/netcoreapp3.1/c#_strings.AssemblyInfoInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/obj/Debug/netcoreapp3.1/c#_strings.AssemblyInfo.cs
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/obj/Debug/netcoreapp3.1/c#_strings.dll
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/obj/Debug/netcoreapp3.1/c#_strings.pdb
+/Users/aggressiveghostsgmail.com/Desktop/c#_strings/obj/Debug/netcoreapp3.1/c#_strings.genruntimeconfig.cache

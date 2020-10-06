@@ -1,0 +1,12 @@
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/bin/Debug/netcoreapp3.1/task1.deps.json
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.json
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.dev.json
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/bin/Debug/netcoreapp3.1/task1.dll
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/bin/Debug/netcoreapp3.1/task1.pdb
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/obj/Debug/netcoreapp3.1/task1.csprojAssemblyReference.cache
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/obj/Debug/netcoreapp3.1/task1.csproj.CoreCompileInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfoInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfo.cs
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/obj/Debug/netcoreapp3.1/task1.dll
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/obj/Debug/netcoreapp3.1/task1.pdb
+/Users/aggressiveghostsgmail.com/Desktop/homework/task1/obj/Debug/netcoreapp3.1/task1.genruntimeconfig.cache
