@@ -1,64 +1,66 @@
-﻿using System;
-
-/*
-5)Дана матрица размера M × N. Преобразовать матрицу,
-поменяв местами минимальный и максимальный элемент в каждой строке.
-*/
-namespace task5
-{
-    class Program
+﻿// C# program to print a given
+// matrix in spiral form
+using System;
+ 
+class GFG {
+    // Function print matrix in spiral form
+    static void spiralPrint(int m, int n, int[, ] a)
     {
-
-        public static void reverse_matrix(ref int[,] array2, int i, int min_index, int max_index){
-            int n = array2[i,min_index];
-            array2[i,min_index] = array2[i,max_index];
-            array2[i,max_index] = n;
-        }
-        static void Main(string[] args){
-            int[,] array2 = new int[4, 4] { 
-                {1, 2, 4, 5}, 
-                {3, 4, 2, 1}, 
-                {5, 4, 5, 6 }, 
-                {3, 5, 7, 4 }
-            };
-            int max = Int32.MinValue;
-            int min = Int32.MaxValue;
-            int max_i = 0;
-            int min_i = 0;
-
-            Console.WriteLine("Before : ");
-            for(int i=0; i<array2.GetLength(0); i++){
-                for(int j=0; j<array2.GetLength(1); j++){
-                    Console.Write(array2[i,j] + " ");
-                }
-                Console.WriteLine("s");
+        int i, k = 0, l = 0;
+        /* k - starting row index
+        m - ending row index
+        l - starting column index
+        n - ending column index
+        i - iterator
+        */
+ 
+        while (k < m && l < n) {
+            // Print the first row
+            // from the remaining rows
+            for (i = l; i < n; ++i) {
+                Console.Write(a[k, i] + " ");
             }
-
-            for(int i=0; i<array2.GetLength(0); i++){
-                for(int j=0; j<array2.GetLength(1); j++){
-
-                    if(array2[i,j] > max){
-                        max = array2[i,j];
-                        max_i = j;
-                    }
-
-                    if(array2[i,j] < min){
-                        min = array2[i,j];
-                        min_i = j;
-                    }
-                }
-                reverse_matrix(ref array2, i, min_i, max_i);
-                max = Int32.MinValue;
-                min = Int32.MaxValue;
+            k++;
+ 
+            // Print the last column from the
+            // remaining columns
+            for (i = k; i < m; ++i) {
+                Console.Write(a[i, n - 1] + " ");
             }
-            Console.WriteLine("\nAfter : ");
-            for(int i=0; i<array2.GetLength(0); i++){
-                for(int j=0; j<array2.GetLength(1); j++){
-                    Console.Write(array2[i,j] + " ");
+            n--;
+ 
+            // Print the last row from
+            // the remaining rows
+            if (k < m) {
+                for (i = n - 1; i >= l; --i) {
+                    Console.Write(a[m - 1, i] + " ");
                 }
-                Console.WriteLine();
+                m--;
             }
-
+ 
+            // Print the first column from
+            // the remaining columns
+            if (l < n) {
+                for (i = m - 1; i >= k; --i) {
+                    Console.Write(a[i, l] + " ");
+                }
+                l++;
+            }
         }
     }
+ 
+    // Driver Code
+    public static void Main()
+    {
+        int R = 3;
+        int C = 6;
+        int[, ] a = { { 1, 2, 3, 4, 5, 6 },
+                      { 7, 8, 9, 10, 11, 12 },
+                      { 13, 14, 15, 16, 17, 18 } };
+         
+          // Function Call
+          spiralPrint(R, C, a);
+    }
 }
+ 
+// This code is contributed by Sam007
