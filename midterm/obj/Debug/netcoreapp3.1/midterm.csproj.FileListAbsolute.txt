@@ -1,0 +1,12 @@
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/bin/Debug/netcoreapp3.1/midterm.deps.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/bin/Debug/netcoreapp3.1/midterm.runtimeconfig.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/bin/Debug/netcoreapp3.1/midterm.runtimeconfig.dev.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/bin/Debug/netcoreapp3.1/midterm.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/bin/Debug/netcoreapp3.1/midterm.pdb
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/obj/Debug/netcoreapp3.1/midterm.csprojAssemblyReference.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/obj/Debug/netcoreapp3.1/midterm.csproj.CoreCompileInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/obj/Debug/netcoreapp3.1/midterm.AssemblyInfoInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/obj/Debug/netcoreapp3.1/midterm.AssemblyInfo.cs
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/obj/Debug/netcoreapp3.1/midterm.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/obj/Debug/netcoreapp3.1/midterm.pdb
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/midterm/obj/Debug/netcoreapp3.1/midterm.genruntimeconfig.cache
