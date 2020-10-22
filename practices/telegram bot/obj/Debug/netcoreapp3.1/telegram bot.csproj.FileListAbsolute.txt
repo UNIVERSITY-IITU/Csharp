@@ -1,0 +1,15 @@
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/Debug/netcoreapp3.1/telegram bot.csprojAssemblyReference.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/Debug/netcoreapp3.1/telegram bot.csproj.CoreCompileInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/Debug/netcoreapp3.1/telegram bot.AssemblyInfoInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/Debug/netcoreapp3.1/telegram bot.AssemblyInfo.cs
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/bin/Debug/netcoreapp3.1/telegram bot.deps.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/bin/Debug/netcoreapp3.1/telegram bot.runtimeconfig.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/bin/Debug/netcoreapp3.1/telegram bot.runtimeconfig.dev.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/bin/Debug/netcoreapp3.1/telegram bot.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/bin/Debug/netcoreapp3.1/telegram bot.pdb
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/bin/Debug/netcoreapp3.1/Telegram.Bot.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/Debug/netcoreapp3.1/telegram bot.csproj.CopyComplete
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/Debug/netcoreapp3.1/telegram bot.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/Debug/netcoreapp3.1/telegram bot.pdb
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/Debug/netcoreapp3.1/telegram bot.genruntimeconfig.cache
