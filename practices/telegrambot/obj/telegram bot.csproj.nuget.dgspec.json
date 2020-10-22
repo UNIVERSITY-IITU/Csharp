@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/telegram bot.csproj": {}
+    "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/telegram bot.csproj": {}
   },
   "projects": {
-    "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/telegram bot.csproj": {
+    "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/telegram bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/telegram bot.csproj",
+        "projectUniqueName": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/telegram bot.csproj",
         "projectName": "telegram bot",
-        "projectPath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/telegram bot.csproj",
+        "projectPath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/telegram bot.csproj",
         "packagesPath": "/Users/aggressiveghostsgmail.com/.nuget/packages/",
-        "outputPath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/",
+        "outputPath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -42,6 +42,10 @@
             "Telegram.Bot": {
               "target": "Package",
               "version": "[15.7.1, )"
+            },
+            "YoutubeExtractor": {
+              "target": "Package",
+              "version": "[0.10.11, )"
             }
           },
           "imports": [

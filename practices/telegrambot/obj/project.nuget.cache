@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kN/HWHyTihtWGvGvPSd8YM+rHiwAznhpkc0rHcbV+FRagkqNNy9rFelsVeEVTEBoeaSvbm0Tz3/lpRiI5fTerg==",
+  "dgSpecHash": "CLRcS0OXK208iuY9FGYrRZDiV5hFVC4oumNRUYCP+WdsvGSjD5wBMOKtV0rLM5PS3BT2H4DL/iFnz3m9ld9hIg==",
   "success": true,
-  "projectFilePath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/telegram bot.csproj",
+  "projectFilePath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/telegram bot.csproj",
   "expectedPackageFiles": [
     "/Users/aggressiveghostsgmail.com/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/aggressiveghostsgmail.com/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
@@ -80,7 +80,19 @@
     "/Users/aggressiveghostsgmail.com/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/aggressiveghostsgmail.com/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/aggressiveghostsgmail.com/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/Users/aggressiveghostsgmail.com/.nuget/packages/telegram.bot/15.7.1/telegram.bot.15.7.1.nupkg.sha512"
+    "/Users/aggressiveghostsgmail.com/.nuget/packages/telegram.bot/15.7.1/telegram.bot.15.7.1.nupkg.sha512",
+    "/Users/aggressiveghostsgmail.com/.nuget/packages/youtubeextractor/0.10.11/youtubeextractor.0.10.11.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'YoutubeExtractor 0.10.11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "YoutubeExtractor",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

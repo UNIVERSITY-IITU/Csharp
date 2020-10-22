@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "telegram bot/1.0.0": {
         "dependencies": {
-          "Telegram.Bot": "15.7.1"
+          "Telegram.Bot": "15.7.1",
+          "YoutubeExtractor": "0.10.11"
         },
         "runtime": {
           "telegram bot.dll": {}
@@ -725,6 +726,17 @@
             "fileVersion": "15.7.1.0"
           }
         }
+      },
+      "YoutubeExtractor/0.10.11": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/net35/YoutubeExtractor.dll": {
+            "assemblyVersion": "0.10.11.0",
+            "fileVersion": "0.10.11.0"
+          }
+        }
       }
     }
   },
@@ -1272,6 +1284,13 @@
       "sha512": "sha512-jIznYng1gO+F5XJBv1hZRKdL11BsixBrNY53gwjBAXbF17rYVlbMSJum4x1DPqc4RqxhgWBt6g6qifa9XEXOwg==",
       "path": "telegram.bot/15.7.1",
       "hashPath": "telegram.bot.15.7.1.nupkg.sha512"
+    },
+    "YoutubeExtractor/0.10.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l670U1sF8DsSTpuPHTbJ6ZDNUySAvnbcvYGtne5PiNR/r1xXfxhptlgbih9WzWfJPc6pdjuCmpKl5NlFE0tMXw==",
+      "path": "youtubeextractor/0.10.11",
+      "hashPath": "youtubeextractor.0.10.11.nupkg.sha512"
     }
   }
 }

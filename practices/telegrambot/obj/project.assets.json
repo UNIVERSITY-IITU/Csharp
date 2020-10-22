@@ -1258,6 +1258,18 @@
         "runtime": {
           "lib/netstandard1.1/Telegram.Bot.dll": {}
         }
+      },
+      "YoutubeExtractor/0.10.11": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.6"
+        },
+        "compile": {
+          "lib/net35/YoutubeExtractor.dll": {}
+        },
+        "runtime": {
+          "lib/net35/YoutubeExtractor.dll": {}
+        }
       }
     }
   },
@@ -4697,11 +4709,27 @@
         "telegram.bot.15.7.1.nupkg.sha512",
         "telegram.bot.nuspec"
       ]
+    },
+    "YoutubeExtractor/0.10.11": {
+      "sha512": "l670U1sF8DsSTpuPHTbJ6ZDNUySAvnbcvYGtne5PiNR/r1xXfxhptlgbih9WzWfJPc6pdjuCmpKl5NlFE0tMXw==",
+      "type": "package",
+      "path": "youtubeextractor/0.10.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/YoutubeExtractor.dll",
+        "lib/net35/YoutubeExtractor.xml",
+        "lib/portable-net45+win8+wpa81+wp8/YoutubeExtractor.dll",
+        "lib/portable-net45+win8+wpa81+wp8/YoutubeExtractor.xml",
+        "youtubeextractor.0.10.11.nupkg.sha512",
+        "youtubeextractor.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Telegram.Bot >= 15.7.1"
+      "Telegram.Bot >= 15.7.1",
+      "YoutubeExtractor >= 0.10.11"
     ]
   },
   "packageFolders": {
@@ -4711,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/telegram bot.csproj",
+      "projectUniqueName": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/telegram bot.csproj",
       "projectName": "telegram bot",
-      "projectPath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/telegram bot.csproj",
+      "projectPath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/telegram bot.csproj",
       "packagesPath": "/Users/aggressiveghostsgmail.com/.nuget/packages/",
-      "outputPath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegram bot/obj/",
+      "outputPath": "/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/practices/telegrambot/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4746,6 +4774,10 @@
           "Telegram.Bot": {
             "target": "Package",
             "version": "[15.7.1, )"
+          },
+          "YoutubeExtractor": {
+            "target": "Package",
+            "version": "[0.10.11, )"
           }
         },
         "imports": [
@@ -4766,5 +4798,17 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'YoutubeExtractor 0.10.11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "YoutubeExtractor",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
