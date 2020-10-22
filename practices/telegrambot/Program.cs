@@ -31,7 +31,7 @@ namespace telegram_bot
 
                 await botClient.SendStickerAsync(
                     chatId: e.Message.Chat,
-                    sticker: "stickers/sticker.webp"
+                    sticker: "https://github.com/UNIVERSITY-IITU/Csharp/tree/main/practices/telegram%20bot/stickers/sticker.webp"
                     );
 
                 await botClient.SendTextMessageAsync(
