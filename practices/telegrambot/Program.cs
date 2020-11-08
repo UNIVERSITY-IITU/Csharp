@@ -75,14 +75,18 @@ namespace telegram_bot
                     text:   $"Hello {e.Message.Chat.FirstName}🖐\nMy names is @aqzholskybot created while 8's laboratory work"
                 );
             }
+             
 
             else if(e.Message.Text == "/me"){
                 getInfoUser func = new getInfoUser(Info);
+
                 await botClient.SendTextMessageAsync(
                     chatId : e.Message.Chat,
                     text:   func(e.Message.Chat.Username)
                 );
             }
+
+
             else if(e.Message.Text == "/random"){
                 getInfoUser get_ = (username) => people[username].ToString(); 
                 String username = people.Keys.ToList()[rand.Next(people.Count)];

@@ -1,0 +1,12 @@
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/bin/Debug/netcoreapp3.1/jalga.deps.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/bin/Debug/netcoreapp3.1/jalga.runtimeconfig.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/bin/Debug/netcoreapp3.1/jalga.runtimeconfig.dev.json
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/bin/Debug/netcoreapp3.1/jalga.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/bin/Debug/netcoreapp3.1/jalga.pdb
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/obj/Debug/netcoreapp3.1/jalga.csprojAssemblyReference.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/obj/Debug/netcoreapp3.1/jalga.csproj.CoreCompileInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/obj/Debug/netcoreapp3.1/jalga.AssemblyInfoInputs.cache
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/obj/Debug/netcoreapp3.1/jalga.AssemblyInfo.cs
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/obj/Debug/netcoreapp3.1/jalga.dll
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/obj/Debug/netcoreapp3.1/jalga.pdb
+/Users/aggressiveghostsgmail.com/Desktop/Lesson/C.#/homeworks/jalga/obj/Debug/netcoreapp3.1/jalga.genruntimeconfig.cache
